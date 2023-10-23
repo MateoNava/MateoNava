@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Gracias por visitar mi GitHub! 👋
 
 <!--
 **MateoNava/MateoNava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
